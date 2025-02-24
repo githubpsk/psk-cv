@@ -1,6 +1,6 @@
 # Publication: Free energy computations by minimization of Kullback–Leibler divergence: an efficient adaptive biasing potential method for sparse representations
 
-**Authors**: I. Bilionis, P.S. Koutsourelakis
+**Authors**: I. Bilionis, P.S. Koutsourelakiss
 
 **Journal**: Journal of Computational Physics (J. Comput. Phys.)
 
