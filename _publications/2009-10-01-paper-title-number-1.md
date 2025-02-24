@@ -1,27 +1,14 @@
 ---
-title: "Free energy computations by minimization of Kullback–Leibler divergence: an efficient adaptive biasing potential method for sparse representations"
-authors:
-  - "I. Bilionis"
-  - "P.S. Koutsourelakis"
-journal: "Journal of Computational Physics"
-volume: 231
-issue: 9
-year: 2012
-pages: "3849–3870"
-doi: "10.1016/j.jcp.2012.01.033"
-wos_id: "wOS:000302501500020"
-category: "Computational Physics"
+title: "Paper Title Number 1"
+collection: publications
+category: manuscripts
+permalink: /publication/2010-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. Blalal.'
+date: 2010-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-## Abstract
-Free energy computations play a critical role in understanding systems where the computation of partition functions or equilibrium probabilities is essential. In this study, we present an efficient method for the computation of free energy changes by minimizing the Kullback–Leibler (KL) divergence between a target distribution and a biased distribution in the form of an adaptive biasing potential. The proposed approach leads to sparse representations in the system’s configurations, thus efficiently reducing the computational burden for large-scale systems. The methodology is illustrated through examples in statistical mechanics, where the free energy is computed in an adaptive manner. This framework is expected to be useful in various applications where free energy calculations are central.
-
-## Citation:
-Bilionis, I., & Koutsourelakis, P.S. (2012). Free energy computations by minimization of Kullback–Leibler divergence: an efficient adaptive biasing potential method for sparse representations. *Journal of Computational Physics*, 231(9), 3849–3870. [DOI: 10.1016/j.jcp.2012.01.033](http://dx.doi.org/10.1016/j.jcp.2012.01.033)
-
-## Keywords:
-- Free energy computation
-- Kullback-Leibler divergence
-- Adaptive biasing potential
-- Sparse representations
-- Statistical mechanics
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
