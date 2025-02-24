@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Free energy computations by minimization of Kullback–Leibler divergence: an efficient adaptive biasing potential method for sparse representations"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. Blalal.'
-date: 2010-10-01
-venue: 'Journal 1'
+permalink: /publication/2012-09-01-free-energy-computations-by-minimization-of-kullback-leibler-divergence
+excerpt: 'This paper presents an efficient method for free energy computations by minimizing Kullback–Leibler divergence, using an adaptive biasing potential for sparse representations.'
+date: 2012-09-01
+venue: 'Journal of Computational Physics'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'I. Bilionis, P.S. Koutsourelakis. (2012). &quot;Free energy computations by minimization of Kullback–Leibler divergence: an efficient adaptive biasing potential method for sparse representations.&quot; <i>Journal of Computational Physics</i>. 231(9), 3849–3870.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+test
