@@ -1,7 +1,7 @@
 ---
 title: "Virtual Data-Driven Probabilistic Surrogates for Parametrized PDEs"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-virtual-data-driven-probabilistic-surrogates-pdes
 excerpt: 'This paper presents virtual data-driven probabilistic surrogates for parametrized PDEs, with applications in uncertainty quantification.'
 date: 2024-01-01
