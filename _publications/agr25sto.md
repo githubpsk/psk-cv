@@ -1,7 +1,7 @@
 ---
 title: "Stochastic black-box optimization using multi-fidelity score function estimator"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publication/2025-01-01-stochastic-black-box-optimization-using-multi-fidelity-score-function-estimator
 excerpt: 'This paper presents a method for stochastic black-box optimization using a multi-fidelity score function estimator, with applications in optimization problems.'
 date: 2025-01-01
