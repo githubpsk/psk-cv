@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D., Princeton University, Department of Civil Engineering and Operations Research, 2002
+* M.A., Princeton University, Department of Civil Engineering and Operations Research, 2000
+* Diploma, National Technical University of Athens, Greece, 1998
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Professor (W2), Professorship Data-driven Materials Modeling, Technical University of Munich, Germany, 2012-present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Visiting Senior Lecturer, Heriot-Watt University, Edinburgh, UK, 2012.
+* Assistant Professor, School of Civil and Environmental Engineering (Field Member
+of Center for Applied Mathematics and Center Computational Science and Engineering),
+Cornell University, Ithaca, NY. 2007-2011.
+* Research Scientist, Applied Statistics Group Lawrence Livermore National Laboratory, Livermore CA, 2005-2007
+* Postdoctoral Fellow, Leopold-Franzens University of Innsbruck, Innsbruck Austria, 2003-2005.
+* Graduate Research Assistant, Department of Civil Engineering and Operations Research, Princeton University, Princeton,  USA, 1998-2002
   
 Skills
 ======
