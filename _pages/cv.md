@@ -18,7 +18,6 @@ Education
 Work experience
 ======
 * Professor (W2), Professorship Data-driven Materials Modeling, Technical University of Munich, Germany, 2012-present
-
 * Visiting Senior Lecturer, Heriot-Watt University, Edinburgh, UK, 2012.
 * Assistant Professor, School of Civil and Environmental Engineering (Field Member
 of Center for Applied Mathematics and Center Computational Science and Engineering),
@@ -27,14 +26,9 @@ Cornell University, Ithaca, NY. 2007-2011.
 * Postdoctoral Fellow, Leopold-Franzens University of Innsbruck, Innsbruck Austria, 2003-2005.
 * Graduate Research Assistant, Department of Civil Engineering and Operations Research, Princeton University, Princeton,  USA, 1998-2002
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<!-- Skills  -->
+<!-- ====== -->
+<!-- * Skill 1  -->
 
 Publications
 ======
